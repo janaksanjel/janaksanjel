@@ -1,6 +1,6 @@
 # Hi, I'm Janak Sanjel 👋
 
-### Backend Software Engineer | Python · Django · Java
+### Full Stack Software Engineer | Python · Django · Java · React
 
 I build reliable backend systems, REST APIs, and production-ready applications that solve real-world problems.
 
